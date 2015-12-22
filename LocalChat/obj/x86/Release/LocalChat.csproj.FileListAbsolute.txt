@@ -1,0 +1,10 @@
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\bin\Release\LocalChat.exe.config
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\bin\Release\LocalChat.exe
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\bin\Release\LocalChat.pdb
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\LocalChat.Form1.resources
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\LocalChat.Properties.Resources.resources
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\LocalChat.exe
+C:\Users\Max\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Release\LocalChat.pdb

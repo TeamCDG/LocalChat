@@ -1,0 +1,9 @@
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.exe.config
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+C:\Users\Marcel\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
